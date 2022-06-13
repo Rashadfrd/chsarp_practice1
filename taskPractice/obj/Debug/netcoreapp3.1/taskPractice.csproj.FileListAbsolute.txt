@@ -1,0 +1,14 @@
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\obj\Debug\netcoreapp3.1\taskPractice.csproj.AssemblyReference.cache
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\obj\Debug\netcoreapp3.1\taskPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\obj\Debug\netcoreapp3.1\taskPractice.AssemblyInfoInputs.cache
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\obj\Debug\netcoreapp3.1\taskPractice.AssemblyInfo.cs
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\obj\Debug\netcoreapp3.1\taskPractice.csproj.CoreCompileInputs.cache
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\bin\Debug\netcoreapp3.1\taskPractice.exe
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\bin\Debug\netcoreapp3.1\taskPractice.deps.json
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\bin\Debug\netcoreapp3.1\taskPractice.runtimeconfig.json
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\bin\Debug\netcoreapp3.1\taskPractice.runtimeconfig.dev.json
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\bin\Debug\netcoreapp3.1\taskPractice.dll
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\bin\Debug\netcoreapp3.1\taskPractice.pdb
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\obj\Debug\netcoreapp3.1\taskPractice.dll
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\obj\Debug\netcoreapp3.1\taskPractice.pdb
+C:\Users\ferha\Desktop\Code\chsarp_practice1\taskPractice\obj\Debug\netcoreapp3.1\taskPractice.genruntimeconfig.cache
